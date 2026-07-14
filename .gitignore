@@ -7,3 +7,8 @@ custom-disk-images/*
 nginx_access.log
 nginx_error.log
 nginx_main_error.log
+nginx_user.pid
+
+# CheerpJ demo build artifacts (recompiled from cheerpj-demo/*.java)
+cheerpj-demo/out/
+cheerpj-demo/*.jar
